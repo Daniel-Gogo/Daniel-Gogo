@@ -8,4 +8,6 @@
 Daniel-Gogo/Daniel-Gogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hey there, im daniel. Im 17 years ols and i started writing code last year october. since then, it has been real fun.
+Hey there, im daniel. Im 17 years old and i started writing code last year october. since then, it has been real fun.
+My hobbies are singing, reading, writing, drawing and also coding. yaay!
+I'm looking forward to job offers and internships as i am already good with html, css, bootstrap, javascript and php.
